@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gdamigos/cream/releases/download/v0.1.3/cream_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/gdamigos/cream/releases/download/v0.1.4/cream_0.1.4_windows_amd64.zip",
             "bin": [
                 "cream.exe"
             ],
-            "hash": "91b1432e21ab2a026d4b0ce870c2c7f29553c8ccf273202449712bb2a0cab3c0"
+            "hash": "d0bf7184c7dd3c2f5be333d2ebfed6a0244a62fbda7c8abe8fb913e3f31fc396"
         },
         "arm64": {
-            "url": "https://github.com/gdamigos/cream/releases/download/v0.1.3/cream_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/gdamigos/cream/releases/download/v0.1.4/cream_0.1.4_windows_arm64.zip",
             "bin": [
                 "cream.exe"
             ],
-            "hash": "135a35e123bbc42fe25fc6c7571116bfe61a588c6dafec7c14ff06f1613e0619"
+            "hash": "815d749b990f85fe6dd6a38da016f29c0b873d9790d139e8beb1117bb5b71e38"
         }
     },
     "homepage": "https://github.com/gdamigos/cream",
